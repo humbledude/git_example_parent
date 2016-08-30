@@ -1,0 +1,4 @@
+[submodule "submodule_child"]
+	path = submodule_child
+	url = https://github.com/humbledude/git_example_child
+	branch = master
